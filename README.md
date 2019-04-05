@@ -1,4 +1,4 @@
-# SRBDRP_Toolbox
+# SRBDRP Toolbox
 Stanford Rock Physics &amp; Borehole Geophysics (SRB) Digital Rock Physics (DRP) Toolbox. The codes include image creation, alteration, 
 and computation of physical and geometrical properties.
 
